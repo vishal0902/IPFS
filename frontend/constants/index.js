@@ -1,4 +1,4 @@
-export const lw3ContractAddr = "0x05F88553E1443A330b5E31b26B79679F33aCe726";
+export const lw3ContractAddr = "0xD2E2079F42cbE52841459526b2DDe60eAcd052c0";
 export const lw3ContractAbi = [
     {
       "inputs": [
